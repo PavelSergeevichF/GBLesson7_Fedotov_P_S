@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GBLesson7_1_Fedotov_P_S/1.0.0": {
+        "runtime": {
+          "GBLesson7_1_Fedotov_P_S.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GBLesson7_1_Fedotov_P_S/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
